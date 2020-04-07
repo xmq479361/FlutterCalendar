@@ -3,7 +3,7 @@ buildscript {
     repositories {
 //        google()
 //        jcenter()
-        maven { url 'http://localhost:8081/artifactory/android-group/' }
+        maven { url 'http://localhost:8081/artifactory/AndroidGroup/' }
     }
 
     dependencies {
@@ -16,7 +16,7 @@ allprojects {
     repositories {
 //        google()
 //        jcenter()
-        maven { url 'http://localhost:8081/artifactory/android-group/' }
+        maven { url 'http://localhost:8081/artifactory/AndroidGroup/' }
     }
 }
 

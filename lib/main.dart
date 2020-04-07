@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_scroll/router.dart';
+import 'router.dart';
 
 
 int main(){
